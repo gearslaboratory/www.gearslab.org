@@ -2,8 +2,8 @@ import React from 'react';
 
 export default function DataAndCode() {
   return (
-    <div className="container" style={ padding: '2rem' }>
-      <div dangerouslySetInnerHTML={ __html: `<div id="wsite-content" class="wsite-elements wsite-not-footer">
+    <div className="container" style={{ padding: '2rem' }}>
+      <div dangerouslySetInnerHTML={{ __html: `<div id="wsite-content" class="wsite-elements wsite-not-footer">
 	<div class="wsite-section-wrap">
 	<div class="wsite-section wsite-body-section wsite-background-18 wsite-custom-background"  >
 		<div class="wsite-section-content">
@@ -301,7 +301,7 @@ export default function DataAndCode() {
 		</tbody>
 	</table>
 </div></div></div></div></div>
-    	` } />
+    	` }} />
     </div>
   );
 }

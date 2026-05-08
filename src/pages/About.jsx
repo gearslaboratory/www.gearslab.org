@@ -2,8 +2,8 @@ import React from 'react';
 
 export default function About() {
   return (
-    <div className="container" style={ padding: '2rem' }>
-      <div dangerouslySetInnerHTML={ __html: `<div id="wsite-content" class="wsite-elements wsite-not-footer">
+    <div className="container" style={{ padding: '2rem' }}>
+      <div dangerouslySetInnerHTML={{ __html: `<div id="wsite-content" class="wsite-elements wsite-not-footer">
 	<div class="wsite-section-wrap">
 	<div class="wsite-section wsite-body-section wsite-background-1 wsite-custom-background" style="height: 443px;" >
 		<div class="wsite-section-content">
@@ -1063,7 +1063,7 @@ if (document.documentElement.appReady || (window.inEditor && window.inEditor()))
 		</tbody>
 	</table>
 </div></div></div></div></div>
-    	` } />
+    	` }} />
     </div>
   );
 }
