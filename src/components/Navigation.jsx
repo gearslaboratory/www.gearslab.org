@@ -1,57 +1,40 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
 
-const navLinks = [
-  { name: 'Home', path: '/' },
-  { name: 'About', path: '/about' },
-  { name: 'People', path: '/people' },
-  { name: 'Research', path: '/research' },
-  { name: 'Data & Code', path: '/data-and-code' },
-  { name: 'Services', path: '/services' }
-];
-
-export default function Navigation() {
+function Navigation() {
   const location = useLocation();
 
+  const links = [
+    { path: '/', label: 'Home' },
+    { path: '/research', label: 'Research' },
+    { path: '/publications', label: 'Publications' },
+    { path: '/people', label: 'Team' },
+    { path: '/data-and-code', label: 'Code & Data' }
+  ];
+
   return (
-    <nav style={{
-      padding: '1.5rem 5%',
-      display: 'flex',
-      justifyContent: 'space-between',
-      alignItems: 'center',
-      backdropFilter: 'blur(10px)',
-      borderBottom: '1px solid rgba(255, 255, 255, 0.05)',
-      position: 'sticky',
-      top: 0,
-      zIndex: 100,
-      background: 'rgba(11, 15, 25, 0.8)'
-    }}>
-      <Link to="/" style={{ textDecoration: 'none' }}>
-        <div style={{
-          fontSize: '1.5rem',
-          fontWeight: 800,
-          letterSpacing: '-0.5px'
-        }} className="text-gradient">
-          Gears<span className="text-primary">Laboratory</span>
+    <nav className="navbar glass">
+      <div className="container nav-content">
+        <Link to="/" className="nav-logo" style={{ display: 'flex', flexDirection: 'column' }}>
+          <div>GEARS <span>LAB</span></div>
+          <div style={{ fontSize: '0.6rem', color: 'var(--text-secondary)', fontWeight: 400, letterSpacing: '0.05em', marginTop: '-0.2rem' }}>
+            Global Environmental Analysis and Remote Sensing
+          </div>
+        </Link>
+        <div className="nav-links">
+          {links.map((link) => (
+            <Link
+              key={link.path}
+              to={link.path}
+              className={`nav-link ${location.pathname === link.path ? 'active' : ''}`}
+            >
+              {link.label}
+            </Link>
+          ))}
         </div>
-      </Link>
-      <div style={{ display: 'flex', gap: '2rem' }}>
-        {navLinks.map((link) => (
-          <Link 
-            key={link.path}
-            to={link.path}
-            style={{
-              textDecoration: 'none',
-              fontWeight: 600,
-              fontSize: '0.95rem',
-              transition: 'color 0.2s',
-              color: location.pathname === link.path ? 'var(--primary)' : 'var(--text-muted)'
-            }}
-          >
-            {link.name}
-          </Link>
-        ))}
       </div>
     </nav>
   );
 }
+
+export default Navigation;

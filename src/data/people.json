@@ -1,0 +1,238 @@
+[
+  {
+    "name": "Jonathan Greenberg",
+    "status": "Principal Investigator",
+    "role": "Principal Investigator",
+    "degree": null,
+    "year": null,
+    "thesis": null,
+    "research": "Dr. Greenberg's research centers on addressing questions of the impacts of climate change and land use/land cover change on vegetated ecosystems using remote sensing data. His research ranges across scales from individual plants to the globe, across many terrestrial and aquatic ecosystems, and utilizes state-of-the-art remote sensing imagery including hyperspectral, hyperspatial, multi-temporal, thermal, and LiDAR data.",
+    "currentRole": null,
+    "image": "/images/people/rdm-8916-e1511307408196.jpg",
+    "links": {
+      "CV": "https://docs.google.com/document/d/1Ohb8amd-HAbp7OqI8PVXJyh9k4r0tsd_N5WLmYRWQe4/edit?usp=sharing",
+      "Google Scholar": "https://scholar.google.com/citations?user=M3AZCp0AAAAJ&hl=en"
+    }
+  },
+  {
+    "name": "Taylor Brown",
+    "status": "Current",
+    "role": "PhD Student",
+    "degree": null,
+    "year": null,
+    "thesis": null,
+    "research": "Demographic modeling of trees across California using forest inventory, geospatial data, and machine learning.",
+    "currentRole": null,
+    "image": "/images/people/taylorbrown-labbio.jpg",
+    "links": {}
+  },
+  {
+    "name": "Adriano Matos",
+    "status": "Current",
+    "role": "Research Assistant",
+    "degree": "MS",
+    "year": "2023",
+    "thesis": "robustraster - A Python Software Package To Lower the Barrier of Entry for Large-Scale Geospatial Analysis",
+    "research": "Geospatial Analysis, Cloud Computing, Python",
+    "currentRole": "Continuing research with GEARS Lab",
+    "image": "/images/people/adrianomatos-e1568064889258.jpg",
+    "links": {}
+  },
+  {
+    "name": "Theo Hartsook",
+    "status": "Alumni",
+    "role": "PhD / MS",
+    "degree": "PhD (2025), MS",
+    "year": "2021",
+    "dissertation": "Three-dimensional wildland fuel mapping with remote sensing and machine learning",
+    "thesis": "Discovetree - An Automated Tool To Generate Stem Maps From Terrestrial Laser Scanner Point Clouds",
+    "research": "Assessing and monitoring change in Sierra Nevada forests using TLS and UAV data.",
+    "currentRole": null,
+    "image": "/images/people/img-20190516-104344_3.jpg",
+    "links": {
+      "LinkedIn": "https://www.linkedin.com/in/theodore-hartsook/"
+    }
+  },
+  {
+    "name": "Gunner Stone",
+    "status": "Alumni",
+    "role": "PhD",
+    "degree": "PhD",
+    "year": "2025",
+    "dissertation": "Deep learning-based part labeling of tree components in point cloud data",
+    "thesis": null,
+    "research": "Machine Learning with a focus in Deep Learning and point cloud processing.",
+    "currentRole": "Senior Applied Scientist at Microsoft",
+    "image": "/images/people/gunner-stone-new.jpg",
+    "links": {
+      "Personal Website": "https://gunnerstone.github.io/",
+      "Google Scholar": "https://scholar.google.com/citations?user=GunnerStone"
+    }
+  },
+  {
+    "name": "Johanson Onyegbula",
+    "status": "Alumni",
+    "role": "MS",
+    "degree": "MS",
+    "year": "2024",
+    "thesis": "Improving tree crown mapping using airborne LiDAR with genetic algorithms",
+    "research": "Intersection of Machine Learning and Remote Sensing, Big Data and Cloud Computing.",
+    "currentRole": "Remote Sensing Researcher at PointBlue Conservation Science",
+    "image": "/images/people/johanson-onyegbula.png",
+    "links": {
+      "LinkedIn": "https://www.linkedin.com/in/johanson-onyegbula",
+      "Google Scholar": "https://scholar.google.com/citations?user=JohansonOnyegbula"
+    }
+  },
+  {
+    "name": "Nikki Inglis",
+    "status": "Alumni",
+    "role": "Postdoctoral Scholar",
+    "degree": "Postdoc",
+    "year": "2023",
+    "thesis": null,
+    "research": "Spatially explicit land change models, data visualization and storytelling, LiDAR-based wildfire fuels analysis, and remote sensing.",
+    "currentRole": "Assistant Professor at Fresno State University",
+    "image": "/images/people/nikki-inglis.jpg",
+    "links": {
+      "Website": "https://csm.fresnostate.edu/about/directory/ees/inglis-nicole.html"
+    }
+  },
+  {
+    "name": "Laura Wade",
+    "status": "Alumni",
+    "role": "MS",
+    "degree": "MS",
+    "year": "2022",
+    "thesis": "Creating novel allometric equations for Northern Sierra Nevada trees using terrestrial laser scanning",
+    "research": "Forestry and ecological field analysis.",
+    "currentRole": "US Forest Service",
+    "image": "/images/people/img-5250.jpeg",
+    "links": {}
+  },
+  {
+    "name": "Adriana Parra",
+    "status": "Alumni",
+    "role": "PhD",
+    "degree": "PhD",
+    "year": "2021",
+    "dissertation": "Quantifying and understanding vegetation change in the conterminous United States using geospatial data",
+    "thesis": null,
+    "research": "Assessing the effects of anthropogenic activities and climate change in the composition and ecological services of mangrove ecosystems.",
+    "currentRole": "Postdoctoral Fellow at CSIRO",
+    "image": "/images/people/adriana-parra-252x300.jpg",
+    "links": {
+      "CSIRO Profile": "https://people.csiro.au/p/a/adriana-parraruiz"
+    }
+  },
+  {
+    "name": "Lee Easson",
+    "status": "Alumni",
+    "role": "MS",
+    "degree": "MS",
+    "year": "2021",
+    "thesis": "Silvan: An immersive software for visualization and mensuration of 3D LiDAR point clouds",
+    "research": "Software development for 3D visualization and LiDAR mensuration.",
+    "currentRole": "Software Engineer",
+    "image": "",
+    "links": {}
+  },
+  {
+    "name": "Qing Xu",
+    "status": "Alumni",
+    "role": "Postdoctoral Scholar",
+    "degree": "Postdoc",
+    "year": "2019",
+    "thesis": null,
+    "research": "Biomass estimation, LiDAR scaling, and remote sensing modeling.",
+    "currentRole": "International Bamboo and Rattan Organisation (INBAR)",
+    "image": "/images/people/qing-xu15.png",
+    "links": {
+      "Google Scholar": "https://scholar.google.com/citations?user=uk5aHxoAAAAJ&hl=en"
+    }
+  },
+  {
+    "name": "Katelyn Josifko",
+    "status": "Alumni",
+    "role": "Staff",
+    "degree": "BS",
+    "year": "2019",
+    "thesis": null,
+    "research": "Collection, preprocessing and analysis of terrestrial laser scanning (TLS) data.",
+    "currentRole": "USDA Forest Service",
+    "image": "/images/people/unnamed.jpg",
+    "links": {
+      "LinkedIn": "https://www.linkedin.com/in/katelyn-josifko-a5777a36b/",
+      "CV": "https://docs.google.com/document/d/1Su-3cNMVmtScuzAmHvZ2CK83PUhUCf9wM7gjNLg7J1c/edit?usp=sharing"
+    }
+  },
+  {
+    "name": "Bailey D. Morrison",
+    "status": "Alumni",
+    "role": "PhD",
+    "degree": "PhD",
+    "year": "2018",
+    "dissertation": "Potential past and future tree migration responses to climate change",
+    "thesis": null,
+    "research": "Species distribution modeling and eco-climate feedback.",
+    "currentRole": "Post-doctoral Research Associate at UC Merced",
+    "image": "/images/people/bailey-morrison-headshot-e1548877690337.jpg",
+    "links": {}
+  },
+  {
+    "name": "Zhengyang Hou",
+    "status": "Alumni",
+    "role": "Postdoctoral Scholar",
+    "degree": "Postdoc",
+    "year": "2018",
+    "thesis": null,
+    "research": "Forest land cover mapping, LiDAR analysis.",
+    "currentRole": "Associate Professor at Beijing Forestry University",
+    "image": "/images/people/zhengyang-hou-217x300.jpg",
+    "links": {
+      "Google Scholar": "https://scholar.google.fi/citations?user=g1tykgMAAAAJ&hl=en"
+    }
+  },
+  {
+    "name": "Courtney Reents",
+    "status": "Alumni",
+    "role": "MS",
+    "degree": "MS",
+    "year": "2016",
+    "thesis": "Detection and characterization of forest disturbances in California",
+    "research": "Forest disturbance mapping and GIS analysis.",
+    "currentRole": "GIS Analyst at Trotter and Associates, Inc.",
+    "image": "/images/people/courtney-reents-300x300.jpg",
+    "links": {
+      "LinkedIn": "https://www.linkedin.com/in/courtney-reents-13370282"
+    }
+  },
+  {
+    "name": "Nathan Pavlovic",
+    "status": "Alumni",
+    "role": "MS",
+    "degree": "MS",
+    "year": "2015",
+    "thesis": "Burning questions: a geospatial analysis of fire regime change in Côte d'Ivoire, 1984-2014",
+    "research": "Geospatial analysis of fire regimes.",
+    "currentRole": "Lead Geospatial Data Scientist at Sonoma Technology, Inc.",
+    "image": "/images/people/nathan-pic-e1503945811845.jpg",
+    "links": {
+      "LinkedIn": "https://www.linkedin.com/in/nathanpavlovic"
+    }
+  },
+  {
+    "name": "Yi Zou",
+    "status": "Alumni",
+    "role": "MS",
+    "degree": "MS",
+    "year": "2015",
+    "thesis": "A contextual classification approach for forest land cover mapping using high spatial resolution multispectral satellite imagery: a case study in Lake Tahoe, California",
+    "research": "Multispectral satellite imagery and contextual classification.",
+    "currentRole": "Senior User Experience Designer at Expedia Group",
+    "image": "/images/people/yi-zou.png",
+    "links": {
+      "LinkedIn": "https://www.linkedin.com/in/yizoeyzou/"
+    }
+  }
+]

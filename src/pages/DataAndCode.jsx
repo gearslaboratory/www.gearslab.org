@@ -1,307 +1,133 @@
 import React from 'react';
 
-export default function DataAndCode() {
+function DataAndCode() {
+
   return (
-    <div className="container" style={{ padding: '2rem' }}>
-      <div dangerouslySetInnerHTML={{ __html: `<div id="wsite-content" class="wsite-elements wsite-not-footer">
-	<div class="wsite-section-wrap">
-	<div class="wsite-section wsite-body-section wsite-background-18 wsite-custom-background"  >
-		<div class="wsite-section-content">
-		    <div class="container">
-			<div class="wsite-section-elements">
-				<h2 class="wsite-content-title">Datasets</h2>
-
-<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<hr class="styled-hr" style="width:100%;"></hr>
-<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
-
-<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
-	<table class="wsite-multicol-table">
-		<tbody class="wsite-multicol-tbody">
-			<tr class="wsite-multicol-tr">
-				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
-					
-						
-
-<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
-<a>
-<img src="uploads/1/3/0/8/130848673/continuous-lifeform-maps-conus-fig1_orig.png" alt="Picture" style="width:auto;max-width:100%" />
-</a>
-<div style="display:block;font-size:90%"></div>
-</div></div>
-
-
-					
-				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
-					
-						
-
-<div class="paragraph"><a href="https://doi.org/10.3334/ORNLDAAC/1809" target="_blank">Vegetative Lifeform Cover from Landsat SR for CONUS, 1984-2018</a><br /><br /><span style="color:rgb(50, 50, 50)"><font size="3">This dataset contains estimates of percent cover of tree, shrub, herb, and other (non-vegetation) lifeform classes and uncertainties for the conterminous U.S. (CONUS). The estimates were derived using quantile regression forest models and indicate the percent of ground covered by a vertical projection of each lifeform class ranging from 0 to 100 percent. Model input data included Landsat surface reflectance (SR) data and 165 airborne LiDAR datasets covering eight of the eleven terrestrial biomes of the conterminous U.S. and Alaska. Eighty-six of the LiDAR acquisitions are part of the NASA Goddard's LiDAR, Hyperspectral, and Thermal Imager (G-LiHT) airborne imager data collection; the remaining 79 sites were acquired by the National Science Foundation's National Ecological Observatory Network Airborne Observation Platform (NEON AOP). Acquisitions were selected based on the availability of the SR data for each G-LiHT and NEON dataset. The data are annual estimates from 1984 to 2018 and were tiled (425 tiles) using the CONUS Landsat Analysis Ready Data (ARD) grid scheme. Data are provided in GeoTIFF format.</font></span></div>
-
-
-					
-				</td>			</tr>
-		</tbody>
-	</table>
-</div></div></div>
-
-<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<hr class="styled-hr" style="width:100%;"></hr>
-<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
-
-<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
-	<table class="wsite-multicol-table">
-		<tbody class="wsite-multicol-tbody">
-			<tr class="wsite-multicol-tr">
-				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
-					
-						
-
-<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
-<a>
-<img src="uploads/1/3/0/8/130848673/cms-lidar-agb-california-fig1_orig.png" alt="Picture" style="width:auto;max-width:100%" />
-</a>
-<div style="display:block;font-size:90%"></div>
-</div></div>
-
-
-					
-				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
-					
-						
-
-<div class="paragraph"><a href="https://doi.org/10.3334/ORNLDAAC/1537" target="_blank">LiDAR-Derived Aboveground Biomass and Uncertainty for California Forests, 2005-2014</a><br /><br /><font size="3">This dataset provides estimates of aboveground biomass and spatially explicit uncertainty from 53 airborne LiDAR surveys of locations throughout California between 2005 and 2014. Aboveground biomass was estimated by performing individual tree crown detection and applying a customized "remote sensing aware" allometric equation to these individual trees. Aboveground biomass estimates and their uncertainties for each study area are provided in per-tree and gridded format. The canopy height models used for the tree detection and biomass estimation are also provided.</font></div>
-
-
-					
-				</td>			</tr>
-		</tbody>
-	</table>
-</div></div></div>
-
-<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<hr class="styled-hr" style="width:100%;"></hr>
-<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
-
-<div class="wsite-spacer" style="height:50px;"></div>
-
-<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
-	<table class="wsite-multicol-table">
-		<tbody class="wsite-multicol-tbody">
-			<tr class="wsite-multicol-tr">
-				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
-					
-						
-
-<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
-<a>
-<img src="uploads/1/3/0/8/130848673/climate-normals-modern-lgm-ak-fig1_orig.png" alt="Picture" style="width:auto;max-width:100%" />
-</a>
-<div style="display:block;font-size:90%"></div>
-</div></div>
-
-
-					
-				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
-					
-						
-
-<div class="paragraph"><a href="https://doi.org/10.3334/ORNLDAAC/1663" target="_blank">Climate Normals for Last Glacial Maximum and Modern (1975-2005), Alaska</a><br /><br />&#8203;<font size="3">This dataset provides two 30-year climate normal data products for conditions during the last glacial maximum (LGM; ~18,000 years ago) and a modern time period (1975-2005) for the entire state of Alaska at 60 m resolution, including: minimum, maximum, and average temperatures, total precipitation, total surface radiation, rain, snow, potential evapotranspiration (PET), actual evapotranspiration (AET), and water deficit.&nbsp;</font></div>
-
-
-					
-				</td>			</tr>
-		</tbody>
-	</table>
-</div></div></div>
-			</div>
-		</div>
-		</div>
-
-	</div>
-</div>
-<div class="wsite-section-wrap">
-	<div class="wsite-section wsite-body-section wsite-background-22 wsite-custom-background"  >
-		<div class="wsite-section-content">
-		    <div class="container">
-			<div class="wsite-section-elements">
-				<h2 class="wsite-content-title">SOftware and Code</h2>
-
-<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<hr class="styled-hr" style="width:100%;"></hr>
-<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
-
-<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
-	<table class="wsite-multicol-table">
-		<tbody class="wsite-multicol-tbody">
-			<tr class="wsite-multicol-tr">
-				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
-					
-						
-
-<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
-<a>
-<img src="uploads/1/3/0/8/130848673/github-logo_orig.png" alt="Picture" style="width:auto;max-width:100%" />
-</a>
-<div style="display:block;font-size:90%"></div>
-</div></div>
-
-
-					
-				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
-					
-						
-
-<div class="paragraph"><a href="https://github.com/gearslaboratory" target="_blank">GEARS Lab GitHub Repositories</a><br /><br /><font size="3">Our lab maintains a set of GitHub repos for various pieces of code that come out of our lab.&nbsp;&nbsp;</font></div>
-
-
-					
-				</td>			</tr>
-		</tbody>
-	</table>
-</div></div></div>
-
-<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<hr class="styled-hr" style="width:100%;"></hr>
-<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
-
-<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
-	<table class="wsite-multicol-table">
-		<tbody class="wsite-multicol-tbody">
-			<tr class="wsite-multicol-tr">
-				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
-					
-						
-
-<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
-<a>
-<img src="uploads/1/3/0/8/130848673/published/rlogo.png%3F1581898806" alt="Picture" style="width:auto;max-width:100%" />
-</a>
-<div style="display:block;font-size:90%"></div>
-</div></div>
-
-
-					
-				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
-					
-						
-
-<div class="paragraph">R Packages<br />&#8203;<ul><li><font size="3">Greenberg, J.A. and M.&nbsp; Mattiuzzi. 2020. gdalUtils: Wrappers for the Geospatial Data Abstraction Library (GDAL) Utilities. R package version 2.0.3. <a href="https://CRAN.R-project.org/package=gdalUtils" target="_blank">https://CRAN.R-project.org/package=gdalUtils</a></font></li><li><font size="3">Greenberg, J.A. 2018. spatial.tools: R Functions for Working with Spatial Data. R package version 1.6.0. <a href="https://CRAN.R-project.org/package=spatial.tools" target="_blank">https://CRAN.R-project.org/package=spatial.tools</a></font></li><li><font size="3">Hijmans, R.J., J. Etten, J. Cheng, M. Mattiuzzi, M. Sumner, J.A. Greenberg, O.P. Lamigueiro, A. Bevan, E.B. Racine, and A. Shortridge. 2019. raster: Geographic Data Analysis and Modeling. R package version 3.0-2. <a href="https://CRAN.R-project.org/package=raster" target="_blank">https://CRAN.R-project.org/package=raster</a></font></li></ul></div>
-
-
-					
-				</td>			</tr>
-		</tbody>
-	</table>
-</div></div></div>
-
-<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<hr class="styled-hr" style="width:100%;"></hr>
-<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
-
-<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
-	<table class="wsite-multicol-table">
-		<tbody class="wsite-multicol-tbody">
-			<tr class="wsite-multicol-tr">
-				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
-					
-						
-
-<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
-<a>
-<img src="uploads/1/3/0/8/130848673/eva286-fig-0001-m_orig.jpg" alt="Picture" style="width:auto;max-width:100%" />
-</a>
-<div style="display:block;font-size:90%"></div>
-</div></div>
-
-
-					
-				</td>				<td class="wsite-multicol-col" style="width:50%; padding:0 15px;">
-					
-						
-
-<div class="paragraph"><a href="https://www.loxodontalocalizer.org/" target="_blank"><em>Loxodonta</em> Localizer</a><br /><br /><font size="3"><em>Loxodonta</em> Localizer maps the localities from which mitochondrial DNA sequences have been reported for African elephants, <em>Loxodonta africana</em> and <em>L. cyclotis</em>, using the dataset described in Ishida et al., 2013, updated with additional sequences.</font></div>
-
-
-					
-				</td>			</tr>
-		</tbody>
-	</table>
-</div></div></div>
-			</div>
-		</div>
-		</div>
-
-	</div>
-</div>
-
-</div>
-
-	  </div>
-
-    <div class="footer-wrap">
-    	<div class="container">
-    		<div class="footer"><div class='wsite-elements wsite-footer'>
-<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -20px;">
-	<table class="wsite-multicol-table">
-		<tbody class="wsite-multicol-tbody">
-			<tr class="wsite-multicol-tr">
-				<td class="wsite-multicol-col" style="width:79.1%; padding:0 20px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;"><font size="4">Contact us for more information on programs, collaborations and datasets!</font></h2>
-
-
-					
-				</td>				<td class="wsite-multicol-col" style="width:20.9%; padding:0 20px;">
-					
-						
-
-<div style="text-align:left;"><div style="height:20px;overflow:hidden"></div>
-<span class="wsite-social wsite-social-default"><a class='first-child wsite-social-item wsite-social-mail' href="https://www.gearslab.org/cdn-cgi/l/email-protection#ed878a9f8888838f889f8aad98839fc3888998" target='_blank' alt='Mail' aria-label='Mail'><span class='wsite-social-item-inner'></span></a><a class='last-child wsite-social-item wsite-social-youtube' href='https://www.youtube.com/playlist?list=PLKlHeZB5GHIjOPcKP1NVVqvejEfxt2h6G' target='_blank' alt='Youtube' aria-label='Youtube'><span class='wsite-social-item-inner'></span></a></span>
-<div style="height:0px;overflow:hidden"></div></div>
-
-
-					
-				</td>			</tr>
-		</tbody>
-	</table>
-</div></div></div>
-
-<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<hr class="styled-hr" style="width:100%;"></hr>
-<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
-
-<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
-	<table class="wsite-multicol-table">
-		<tbody class="wsite-multicol-tbody">
-			<tr class="wsite-multicol-tr">
-				<td class="wsite-multicol-col" style="width:18.623962040332%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;"><font size="3">Email</font></h2>
-
-<div class="paragraph" style="text-align:left;"><a href="https://www.gearslab.org/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1d777a6f7878737f786f7a5d68736f33787968">[email&#160;protected]</a></div>
-
-
-					
-				</td>				<td class="wsite-multicol-col" style="width:81.376037959668%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;"><font size="3">Mailing Address</font></h2>
-
-<div class="paragraph" style="text-align:left;"><font color="#d5d5d5">Natural Resources &amp; Environmental Science<br />University of Nevada, Reno<br />1664 N Virginia St MS 0186<br />Reno, NV 89557</font></div>
-
-
-					
-				</td>			</tr>
-		</tbody>
-	</table>
-</div></div></div></div></div>
-    	` }} />
+    <div className="page fade-in">
+      <header className="page-header glass">
+        <div className="container">
+          <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>Data & Code</h1>
+          <p style={{ fontSize: '1.2rem', color: 'var(--text-secondary)' }}>
+            Open source software and open data produced by the GEARS Laboratory.
+          </p>
+        </div>
+      </header>
+
+      <div className="container">
+        <section className="section">
+          <h2 style={{ fontSize: '2rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '1rem', marginBottom: '2rem' }}>
+            Open Source Tools
+          </h2>
+          <div className="grid-2">
+            
+            <div className="card glass">
+              <h3 style={{ fontSize: '1.5rem', color: '#fff', marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M4 17l6-6-6-6 M12 19h8"/></svg>
+                robustraster
+              </h3>
+              <p style={{ color: 'var(--text-secondary)', marginBottom: '1.5rem', lineHeight: 1.6 }}>
+                A Python software package designed to lower the barrier of entry for large-scale geospatial analysis. It provides scalable interfaces for manipulating and analyzing massive raster datasets without out-of-memory errors.
+              </p>
+              <a href="https://github.com/gearslaboratory/robustraster" target="_blank" rel="noopener noreferrer" className="btn btn-primary" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem' }}>
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+                View on GitHub
+              </a>
+            </div>
+
+            <div className="card glass">
+              <h3 style={{ fontSize: '1.5rem', color: '#fff', marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-secondary)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M4 17l6-6-6-6 M12 19h8"/></svg>
+                als-finder
+              </h3>
+              <p style={{ color: 'var(--text-secondary)', marginBottom: '1.5rem', lineHeight: 1.6 }}>
+                A robust software tool built for managing, querying, and retrieving Airborne Laser Scanning (ALS) data across multiple open-source providers simultaneously.
+              </p>
+              <a href="https://github.com/cms-2024-hudak/als-finder" target="_blank" rel="noopener noreferrer" className="btn btn-primary" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem' }}>
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+                View on GitHub
+              </a>
+            </div>
+
+          </div>
+        </section>
+
+        <section className="section" style={{ paddingTop: 0 }}>
+          <h2 style={{ fontSize: '2rem', borderBottom: '1px solid rgba(255,255,255,0.1)', paddingBottom: '1rem', marginBottom: '2rem' }}>
+            Open Datasets
+          </h2>
+          <div className="grid-3" style={{ gap: '2rem' }}>
+            
+            <div className="card glass" style={{ padding: 0, overflow: 'hidden' }}>
+              <img src="/images/datasets/dataset_1_khanna_delta.png" alt="Delta Genus and Community Maps" style={{ width: '100%', height: '200px', objectFit: 'cover' }} />
+              <div style={{ padding: '1.5rem' }}>
+                <h3 style={{ fontSize: '1.2rem', color: '#fff', marginBottom: '0.5rem' }}>Sacramento-San Joaquin Delta Genus and Community Classification Maps</h3>
+                <p style={{ color: 'var(--text-secondary)', marginBottom: '1rem', fontSize: '0.95rem' }}>
+                  Classification maps derived from airborne spectroscopy data characterizing the vegetation communities of the California Delta.
+                </p>
+                <a href="https://doi.org/10.5063/f1hh6hjx" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent-primary)' }}>KNB Data Repository (2024)</a>
+              </div>
+            </div>
+
+            <div className="card glass" style={{ padding: 0, overflow: 'hidden' }}>
+              <img src="/images/datasets/dataset_2_khanna_sav.png" alt="Submersed Aquatic Vegetation" style={{ width: '100%', height: '200px', objectFit: 'cover' }} />
+              <div style={{ padding: '1.5rem' }}>
+                <h3 style={{ fontSize: '1.2rem', color: '#fff', marginBottom: '0.5rem' }}>Submersed Aquatic Vegetation Community Multi-year Data</h3>
+                <p style={{ color: 'var(--text-secondary)', marginBottom: '1rem', fontSize: '0.95rem' }}>
+                  Multi-year community data mapping the submersed aquatic vegetation across the Sacramento-San Joaquin Delta.
+                </p>
+                <a href="https://doi.org/10.6073/pasta/6ba28bdfbf01fac6d417cd277e5d2a84" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent-primary)' }}>Environmental Data Initiative (2022)</a>
+              </div>
+            </div>
+
+            <div className="card glass" style={{ padding: 0, overflow: 'hidden' }}>
+              <img src="/images/datasets/dataset_3_kruse_houston.png" alt="Houston Airborne Campaign" style={{ width: '100%', height: '200px', objectFit: 'cover' }} />
+              <div style={{ padding: '1.5rem' }}>
+                <h3 style={{ fontSize: '1.2rem', color: '#fff', marginBottom: '0.5rem' }}>MASTER: Houston Airborne Campaign</h3>
+                <p style={{ color: 'var(--text-secondary)', marginBottom: '1rem', fontSize: '0.95rem' }}>
+                  Airborne campaign data across California, Colorado, and Central US utilizing the MASTER instrument.
+                </p>
+                <a href="https://doi.org/10.3334/ORNLDAAC/1972" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent-primary)' }}>ORNL DAAC (2022)</a>
+              </div>
+            </div>
+
+            <div className="card glass" style={{ padding: 0, overflow: 'hidden' }}>
+              <img src="/images/datasets/continuous-lifeform-maps-conus-fig1_orig.png" alt="Vegetative Lifeform Cover" style={{ width: '100%', height: '200px', objectFit: 'cover' }} />
+              <div style={{ padding: '1.5rem' }}>
+                <h3 style={{ fontSize: '1.2rem', color: '#fff', marginBottom: '0.5rem' }}>CMS: Vegetative Lifeform Cover from Landsat SR for CONUS, 1984-2018</h3>
+                <p style={{ color: 'var(--text-secondary)', marginBottom: '1rem', fontSize: '0.95rem' }}>
+                  Long-term wall-to-wall fractional cover mapping of vegetative lifeforms across the conterminous United States.
+                </p>
+                <a href="https://doi.org/10.3334/ORNLDAAC/1809" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent-primary)' }}>ORNL DAAC (2022)</a>
+              </div>
+            </div>
+
+            <div className="card glass" style={{ padding: 0, overflow: 'hidden' }}>
+              <img src="/images/datasets/climate-normals-modern-lgm-ak-fig1_orig.png" alt="Alaska Climate Normals" style={{ width: '100%', height: '200px', objectFit: 'cover' }} />
+              <div style={{ padding: '1.5rem' }}>
+                <h3 style={{ fontSize: '1.2rem', color: '#fff', marginBottom: '0.5rem' }}>Alaska Downscaled 30-year Climate Normals (Modern and LGM)</h3>
+                <p style={{ color: 'var(--text-secondary)', marginBottom: '1rem', fontSize: '0.95rem' }}>
+                  Downscaled climate normals at 60-meter resolution for Alaska, representing modern periods and the Last Glacial Maximum.
+                </p>
+                <a href="https://doi.org/10.3334/ORNLDAAC/1663" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent-primary)' }}>ORNL DAAC (2019)</a>
+              </div>
+            </div>
+
+            <div className="card glass" style={{ padding: 0, overflow: 'hidden' }}>
+              <img src="/images/datasets/cms-lidar-agb-california-fig1_orig.png" alt="Aboveground Biomass California" style={{ width: '100%', height: '200px', objectFit: 'cover' }} />
+              <div style={{ padding: '1.5rem' }}>
+                <h3 style={{ fontSize: '1.2rem', color: '#fff', marginBottom: '0.5rem' }}>LiDAR-Derived Aboveground Biomass and Uncertainty for California Forests, 2005-2014</h3>
+                <p style={{ color: 'var(--text-secondary)', marginBottom: '1rem', fontSize: '0.95rem' }}>
+                  Extensive dataset of biomass estimates spanning the entire state of California, heavily utilized for carbon accounting and fuel monitoring.
+                </p>
+                <a href="https://doi.org/10.3334/ORNLDAAC/1537" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent-primary)' }}>ORNL DAAC (2018)</a>
+              </div>
+            </div>
+
+          </div>
+        </section>
+      </div>
     </div>
   );
 }
+
+export default DataAndCode;

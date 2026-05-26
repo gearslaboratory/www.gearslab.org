@@ -23,7 +23,7 @@ export default function About() {
 
 <div><div class="wsite-image wsite-image-border-medium " style="padding-top:5px;padding-bottom:10px;margin-left:0px;margin-right:10px;text-align:center">
 <a>
-<img src="uploads/1/3/0/8/130848673/editor/20171213-224207.jpg%3F1581891768" alt="Picture" style="width:auto;max-width:100%" />
+<img src="/uploads/1/3/0/8/130848673/editor/20171213-224207.jpg%3F1581891768" alt="Picture" style="width:auto;max-width:100%" />
 </a>
 <div style="display:block;font-size:90%">Jonathan with Susan Ustin at Dr. Ustin's AGU Honors Tribute in 2017</div>
 </div></div>
@@ -254,7 +254,7 @@ if (document.documentElement.appReady || (window.inEditor && window.inEditor()))
 
 <div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0px;margin-right:0px;text-align:center">
 <a>
-<img src="uploads/1/3/0/8/130848673/published/scotty-thereflectors-7.jpg%3F1581892662" alt="Picture" style="width:auto;max-width:100%" />
+<img src="/uploads/1/3/0/8/130848673/published/scotty-thereflectors-7.jpg%3F1581892662" alt="Picture" style="width:auto;max-width:100%" />
 </a>
 <div style="display:block;font-size:90%">GEARS Lab members collaborating with the US Forest Service at the Ferguson Fire in 2018.</div>
 </div></div>

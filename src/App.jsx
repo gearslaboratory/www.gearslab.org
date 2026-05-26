@@ -5,25 +5,23 @@ import Footer from './components/Footer';
 
 // Pages
 import Home from './pages/Home';
-import About from './pages/About';
 import People from './pages/People';
 import Research from './pages/Research';
+import Publications from './pages/Publications';
 import DataAndCode from './pages/DataAndCode';
-import Services from './pages/Services';
 
 function App() {
   return (
     <Router>
-      <div className="flex flex-col" style={{ minHeight: '100vh' }}>
+      <div className="app-wrapper" style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
         <Navigation />
-        <main style={{ flex: 1 }}>
+        <main className="main-content" style={{ flexGrow: 1 }}>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/people" element={<People />} />
             <Route path="/research" element={<Research />} />
+            <Route path="/publications" element={<Publications />} />
+            <Route path="/people" element={<People />} />
             <Route path="/data-and-code" element={<DataAndCode />} />
-            <Route path="/services" element={<Services />} />
           </Routes>
         </main>
         <Footer />

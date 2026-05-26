@@ -1,0 +1,1486 @@
+[
+  {
+    "title": "The Sacramento-San Joaquin Delta genus and community level classification maps derived from airborne spectroscopy data",
+    "year": "2025",
+    "citation": "KNB Data Repository, 2025",
+    "num_citations": 4,
+    "url": ""
+  },
+  {
+    "title": "Large-Scale Forest Scenario Modeling in California using an Integrative Machine Learning Framework",
+    "year": "2025",
+    "citation": "AGU25, 2025",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "A Conditional Variational Autoencoder to Learn Mappings Between ALS and TLS Measured Forests",
+    "year": "2025",
+    "citation": "International Symposium on Visual Computing, 261-271, 2025",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Climate\u2010limited vegetation change in the conterminous United States of America",
+    "year": "2024",
+    "citation": "Global Change Biology 30 (2), e17204, 2024",
+    "num_citations": 8,
+    "url": ""
+  },
+  {
+    "title": "Quantifying spatially explicit uncertainty in empirically downscaled climate data",
+    "year": "2024",
+    "citation": "International Journal of Climatology, 4548-4570, 2024",
+    "num_citations": 3,
+    "url": ""
+  },
+  {
+    "title": "Generating Synthetic Tree Point Clouds for Deep Learning Applications in Remote Sensing",
+    "year": "2024",
+    "citation": "International Symposium on Visual Computing, 3-14, 2024",
+    "num_citations": 2,
+    "url": ""
+  },
+  {
+    "title": "Surface and ladder fuel estimation using airborne and terrestrial LiDAR fusion",
+    "year": "2024",
+    "citation": "AGU Fall Meeting Abstracts 2024 (2014), A11U-2014, 2024",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Robust-Raster: Simplifying Massive Geospatial Data Analysis",
+    "year": "2024",
+    "citation": "AGU Fall Meeting Abstracts 2024 (2225), IN41C-2225, 2024",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Fuel Model Uncertainty Effects on Burn Probability Modeling",
+    "year": "2024",
+    "citation": "AGU Fall Meeting Abstracts 2024, NG12A-06, 2024",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Demographic Modeling of Trees Across California Using Forest Inventory, Geospatial Data, and Machine Learning",
+    "year": "2024",
+    "citation": "AGU Fall Meeting Abstracts 2024 (1383), B41H-1383, 2024",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "raster: Geographic Data Analysis and Modeling. R package version 3.6-26",
+    "year": "2023",
+    "citation": "Computer software]. https://CRAN. Rproject. org/package= raster, 2023",
+    "num_citations": 662,
+    "url": ""
+  },
+  {
+    "title": "raster: Geographic data analysis and modeling (3.6\u201323)",
+    "year": "2023",
+    "citation": "CRAN, 2023",
+    "num_citations": 31,
+    "url": ""
+  },
+  {
+    "title": "Optimizing fuel treatments for carbon sequestration and fire hazard reduction over time and space",
+    "year": "2023",
+    "citation": "AGU Fall Meeting Abstracts 2023 (2059), B21H-2059, 2023",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "How the effect of fuel treatment on streamflow changes across aridity gradients in Sierra Nevada watersheds",
+    "year": "2023",
+    "citation": "AGU Fall Meeting Abstracts 2023 (1678), H21Y-1678, 2023",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "The GigaFire Project: Mapping Fuels and Carbon Stores in California with Cloud Computing Technologies",
+    "year": "2023",
+    "citation": "AGU Fall Meeting Abstracts 2023 (593), IN23B-0593, 2023",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Modeling Individual Tree Attributes at a Landscape-Level using Mesoscale Geospatial Data",
+    "year": "2023",
+    "citation": "AGU Fall Meeting Abstracts 2023 (2172), B31G-2172, 2023",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Neural networks-based image filtering to improve 3D forest scene reconstruction",
+    "year": "2023",
+    "citation": "AGU Fall Meeting Abstracts 2023 (1801), B51D-1801, 2023",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Using Action Cameras to Collect Tree Measurements",
+    "year": "2023",
+    "citation": "IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2023",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "raster: Geographic Data Analysis and Modeling. R package version 2.6-7. 2017",
+    "year": "2022",
+    "citation": "",
+    "num_citations": 24,
+    "url": ""
+  },
+  {
+    "title": "Estimation of fractional plant lifeform cover for the conterminous United States using Landsat imagery and airborne LiDAR",
+    "year": "2022",
+    "citation": "IEEE Transactions on Geoscience and Remote Sensing 60, 1-14, 2022",
+    "num_citations": 8,
+    "url": ""
+  },
+  {
+    "title": "How interactions between wildfire and seasonal soil moisture fluxes drive nitrogen cycling in Northern Sierra Nevada forests",
+    "year": "2022",
+    "citation": "International Journal of Wildland Fire 31 (8), 786-798, 2022",
+    "num_citations": 5,
+    "url": ""
+  },
+  {
+    "title": "Unraveling the Controls on Snow Disappearance in Montane Forests Using Multi-Site Lidar Observations",
+    "year": "2022",
+    "citation": "Authorea Preprints, 2022",
+    "num_citations": 2,
+    "url": ""
+  },
+  {
+    "title": "Augmenting forest inventory field data collection with consumer grade cameras",
+    "year": "2022",
+    "citation": "AGU Fall Meeting Abstracts 2022, GC32F-0668, 2022",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Improving Tree Stem Mapping using Airborne LiDAR with Genetic Algorithms",
+    "year": "2022",
+    "citation": "AGU Fall Meeting Abstracts 2022, GC15A-16, 2022",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Statewide Mapping of California's Forest Stands using Synthetic Tree Data",
+    "year": "2022",
+    "citation": "AGU Fall Meeting Abstracts 2022, B12F-1137, 2022",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "The GigaFire Project: Large-Scale Fuels Mapping and Modeling in a Cloud Computing Environment",
+    "year": "2022",
+    "citation": "AGU Fall Meeting Abstracts 2022, IN42D-0352, 2022",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Modeling Fuel Treatment Effects on Streamflow in California Watersheds.",
+    "year": "2022",
+    "citation": "AGU Fall Meeting Abstracts 2022, H32O-1106, 2022",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Spatial Application of the Forest Vegetation Simulator (FVS) to Project Impacts of Fuel Reduction Treatments on Carbon Budgets",
+    "year": "2022",
+    "citation": "AGU Fall Meeting Abstracts 2022, B55D-0999, 2022",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Phenology-based classification of invasive annual grasses to the species level",
+    "year": "2021",
+    "citation": "Remote Sensing of Environment 263, 112568, 2021",
+    "num_citations": 90,
+    "url": ""
+  },
+  {
+    "title": "Unraveling the controls on snow disappearance in montane conifer forests using multi\u2010site lidar",
+    "year": "2021",
+    "citation": "Water Resources Research 57 (12), e2020WR027522, 2021",
+    "num_citations": 35,
+    "url": ""
+  },
+  {
+    "title": "Drivers and projections of ice phenology in mountain lakes in the western United States",
+    "year": "2021",
+    "citation": "Limnology and Oceanography 66 (3), 995-1008, 2021",
+    "num_citations": 33,
+    "url": ""
+  },
+  {
+    "title": "I. for MA Geosciences, C",
+    "year": "2021",
+    "citation": "Karney, M. Mattiuzzi, S. Mosher, B. Naimi, J. Nowosad, E. Pebesma, OP \u2026, 2021",
+    "num_citations": 13,
+    "url": ""
+  },
+  {
+    "title": "Characterizing the Wildland Fire Environment for Smoke Modeling and Air Quality Mapping",
+    "year": "2021",
+    "citation": "AGU Fall Meeting Abstracts 2021, A52F-01, 2021",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Conifer Encroachment Dynamics in Aspen Stands of the Lake Tahoe Basin",
+    "year": "2021",
+    "citation": "< bound method Organization. get_name_with_acronym of< Organization: State \u2026, 2021",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "raster: geographic data analysis and modeling. 2020",
+    "year": "2020",
+    "citation": "R package version, 3.4-5, 2020",
+    "num_citations": 367,
+    "url": ""
+  },
+  {
+    "title": "Increasing the efficacy of forest thinning for snow using high\u2010resolution modeling: A proof of concept in the Lake Tahoe Basin, California, USA",
+    "year": "2020",
+    "citation": "Ecohydrology 13 (4), e2203, 2020",
+    "num_citations": 40,
+    "url": ""
+  },
+  {
+    "title": "Impacts of arctic shrubs on root traits and belowground nutrient cycles across a Northern Alaskan climate gradient",
+    "year": "2020",
+    "citation": "Frontiers in Plant Science 11, 588098, 2020",
+    "num_citations": 17,
+    "url": ""
+  },
+  {
+    "title": "raster: Geographic data analysis and modeling (3.6-14)[computer software]",
+    "year": "2020",
+    "citation": "Website https://CRAN. R-project. org/package= raster (accessed on 21 \u2026, 2020",
+    "num_citations": 13,
+    "url": ""
+  },
+  {
+    "title": "Package \u2018gdalUtils\u2019",
+    "year": "2020",
+    "citation": "Vienna, Austria: R Foundation for Statistical Computing, 2020",
+    "num_citations": 4,
+    "url": ""
+  },
+  {
+    "title": "Package \u2018spatial. tools\u2019",
+    "year": "2020",
+    "citation": "",
+    "num_citations": 2,
+    "url": ""
+  },
+  {
+    "title": "Variability in Terrestrial Laser Scanning (TLS) derived allometric equations for northern Sierra Nevada forests",
+    "year": "2020",
+    "citation": "AGU Fall Meeting Abstracts 2020, B108-0034, 2020",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Predicting beneath canopy radiation for land surface modelling from voxelised terrestrial laser scanning data",
+    "year": "2020",
+    "citation": "AGU Fall Meeting Abstracts 2020, B081-0014, 2020",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Automated Stem Mapping Using Terrestrial Laser Scanning and Hough Transforms",
+    "year": "2020",
+    "citation": "AGU Fall Meeting Abstracts 2020, B081-0003, 2020",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Observed or Probabilistic? Evaluating the Effects of Ancillary Data as Predictor Variables in Remote Sensing Analyses of Vegetation",
+    "year": "2020",
+    "citation": "AGU Fall Meeting Abstracts 2020, B035-0005, 2020",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Loxodonta Localizer: A Software Tool for Inferring the Provenance of African Elephants and Their Ivory Using Mitochondrial DNA",
+    "year": "2019",
+    "citation": "Journal of Heredity 110 (7), 761-768, 2019",
+    "num_citations": 22,
+    "url": ""
+  },
+  {
+    "title": "Geographic Data Analysis and Modeling: Package \u201cRaster\u201d Version 2016",
+    "year": "2019",
+    "citation": "Comprehensive R Archive Network (CRAN), 2019",
+    "num_citations": 15,
+    "url": ""
+  },
+  {
+    "title": "Spatial scale affects novel and disappeared climate change projections in Alaska",
+    "year": "2019",
+    "citation": "Ecology and Evolution 9 (21), 12026-12044, 2019",
+    "num_citations": 13,
+    "url": ""
+  },
+  {
+    "title": "A spatialized classification approach for land cover mapping using hyperspatial imagery",
+    "year": "2019",
+    "citation": "Remote Sensing of Environment 232, 111248, 2019",
+    "num_citations": 12,
+    "url": ""
+  },
+  {
+    "title": "An automatic digital terrain generation technique for terrestrial sensing and virtual reality applications",
+    "year": "2019",
+    "citation": "International Symposium on Visual Computing, 619-630, 2019",
+    "num_citations": 2,
+    "url": ""
+  },
+  {
+    "title": "Remote Sensing to Support Investigations in Plant-Climate Interactions II Posters",
+    "year": "2019",
+    "citation": "AGU Fall Meeting 2019, 2019",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Efficacy of using unmanned aerial vehicle imagery, terrestrial laser scanning, and airborne laser scanning data in measuring three-dimensional forest properties",
+    "year": "2019",
+    "citation": "AGU Fall Meeting Abstracts 2019, NS11C-0644, 2019",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Evaluating Climate-Driven Changes in Lifeform Cover Composition Across the United States From 1984 to 2015 Using Landsat and Airborne LiDAR/Hyperspectral Data",
+    "year": "2019",
+    "citation": "AGU Fall Meeting Abstracts 2019, B32C-05, 2019",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Watershed-scale geomorphology and disturbance influence riparian vegetation change in small mountain basins",
+    "year": "2019",
+    "citation": "AGU Fall Meeting Abstracts 2019, U11C-02, 2019",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Climate Collection",
+    "year": "2019",
+    "citation": "ORNL Distributed Active Archive Center (DAAC) dataset 10.3334/ORNLDAAC/1663 \u2026, 2019",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Climate Normals for Last Glacial Maximum and Modern (1975-2005), Alaska. ORNL DAAC, Oak Ridge, Tennessee, USA",
+    "year": "2019",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Use of multispectral satellite remote sensing to assess mixing of suspended sediment downstream of large river confluences",
+    "year": "2018",
+    "citation": "Journal of Hydrology 556, 325-338, 2018",
+    "num_citations": 134,
+    "url": ""
+  },
+  {
+    "title": "Quantification of uncertainty in aboveground biomass estimates derived from small-footprint airborne LiDAR",
+    "year": "2018",
+    "citation": "Remote sensing of environment 216, 514-528, 2018",
+    "num_citations": 71,
+    "url": ""
+  },
+  {
+    "title": "How much can natural resource inventory benefit from finer resolution auxiliary data?",
+    "year": "2018",
+    "citation": "Remote Sensing of Environment 209, 31-40, 2018",
+    "num_citations": 26,
+    "url": ""
+  },
+  {
+    "title": "Package \u201craster\u201d(2016)",
+    "year": "2018",
+    "citation": "Preprint. http://healthstat. snu. ac. kr/CRAN/web/packages/raster/raster \u2026, 2018",
+    "num_citations": 13,
+    "url": ""
+  },
+  {
+    "title": "Lidar-derived aboveground biomass and uncertainty for California forests, 2005-2014",
+    "year": "2018",
+    "citation": "ORNL Distributed Active Archive Center (DAAC) dataset 10.3334/ORNLDAAC/1537 \u2026, 2018",
+    "num_citations": 7,
+    "url": ""
+  },
+  {
+    "title": "Remote sensing application for deadwood identification and characterisation.",
+    "year": "2018",
+    "citation": "EGU General Assembly Conference Abstracts, 16440, 2018",
+    "num_citations": 2,
+    "url": ""
+  },
+  {
+    "title": "Extreme wildfire events: Understanding and prediction",
+    "year": "2018",
+    "citation": "AGU Fall Meeting Abstracts 2018, A24E-06, 2018",
+    "num_citations": 1,
+    "url": ""
+  },
+  {
+    "title": "Modeling soil carbon losses following anthropogenic disturbance in Sierra Nevada meadows using field measurements, remote sensing products, and downscaled climate data",
+    "year": "2018",
+    "citation": "AGU Fall Meeting Abstracts 2018, B32B-07, 2018",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Fish versus tomatoes and other tales of using remote sensing to meet California's co-equal goals of providing water supplies and protecting ecosystems.",
+    "year": "2018",
+    "citation": "AGU Fall Meeting Abstracts 2018, PA44B-01, 2018",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Quantification of uncertainty in aboveground biomass estimates derived from small-footprint airborne LiDAR.",
+    "year": "2018",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "How much can natural resource inventory benefit from finer resolution auxiliary data?",
+    "year": "2018",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Effects of temporally external auxiliary data on model-based inference",
+    "year": "2017",
+    "citation": "Remote Sensing of Environment 198, 150-159, 2017",
+    "num_citations": 27,
+    "url": ""
+  },
+  {
+    "title": "Effect of spatial filtering on characterizing soil properties from imaging spectrometer data",
+    "year": "2017",
+    "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote \u2026, 2017",
+    "num_citations": 7,
+    "url": ""
+  },
+  {
+    "title": "Raster v2. 3: Geographic data analysis and modeling",
+    "year": "2017",
+    "citation": "",
+    "num_citations": 7,
+    "url": ""
+  },
+  {
+    "title": "Package \u2018Raster\u2019. R Package version 2.9. 5",
+    "year": "2017",
+    "citation": "",
+    "num_citations": 6,
+    "url": ""
+  },
+  {
+    "title": "Remote Sensing in the Biogeosciences: Earth Observation Requirements, Capabilities, and Plant-Climate Interaction Applications II",
+    "year": "2017",
+    "citation": "2017 AGU Fall Meeting, 2017",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Vegetation response to the 2016-2017 extreme Sierra Nevada snowfall event using multitemporal terrestrial laser scanning: initial results",
+    "year": "2017",
+    "citation": "AGU Fall Meeting Abstracts 2017, B53C-1963, 2017",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "How Much Can Remotely-Sensed Natural Resource Inventories Benefit from Finer Spatial Resolutions?",
+    "year": "2017",
+    "citation": "AGU Fall Meeting Abstracts 2017, B13A-1756, 2017",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "DBH Prediction Using Allometry Described by Bivariate Copula Distribution",
+    "year": "2017",
+    "citation": "AGU Fall Meeting Abstracts 2017, B23E-2121, 2017",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "The species velocity of trees in Alaska",
+    "year": "2017",
+    "citation": "AGU Fall Meeting Abstracts 2017, B13J-01, 2017",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Estimation of Fractional Plant Lifeform Cover Using Landsat and Airborne LiDAR/hyperspectral Data",
+    "year": "2017",
+    "citation": "AGU Fall Meeting Abstracts 2017, GC43D-1094, 2017",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Assessing the influence of snowmelt on vegetation growth: a LiDAR perspective",
+    "year": "2017",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Development of methods to improve soybean yield estimation and predict plant maturity with an unmanned aerial vehicle based platform",
+    "year": "2016",
+    "citation": "Remote Sensing of Environment 187, 91-101, 2016",
+    "num_citations": 276,
+    "url": ""
+  },
+  {
+    "title": "raster: Geographic data analysis and modeling (Version 2.5-8)",
+    "year": "2016",
+    "citation": "R package, 2016",
+    "num_citations": 115,
+    "url": ""
+  },
+  {
+    "title": "The effect of submerged aquatic vegetation expansion on a declining turbidity trend in the Sacramento-San Joaquin River Delta",
+    "year": "2016",
+    "citation": "Estuaries and Coasts 39 (4), 1100-1112, 2016",
+    "num_citations": 106,
+    "url": ""
+  },
+  {
+    "title": "Measuring landscape\u2010scale spread and persistence of an invaded submerged plant community from airborne remote sensing",
+    "year": "2016",
+    "citation": "Ecological Applications 26 (6), 1733-1744, 2016",
+    "num_citations": 45,
+    "url": ""
+  },
+  {
+    "title": "Raster: geographic data analysis and modeling [WWW Document]",
+    "year": "2016",
+    "citation": "URL https://cran. r-project. org/package= raster, 2016",
+    "num_citations": 9,
+    "url": ""
+  },
+  {
+    "title": "Remote Sensing of Vegetation Biomass II Posters",
+    "year": "2016",
+    "citation": "2016 AGU Fall Meeting, 2016",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Quantification of uncertainty in aboveground biomass estimates derived from small-footprint LiDAR data",
+    "year": "2016",
+    "citation": "AGU Fall Meeting Abstracts 2016, B44C-04, 2016",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "How spatial scale influences novel and disappeared climate predictions in Alaska",
+    "year": "2016",
+    "citation": "AGU Fall Meeting Abstracts 2016, GC42A-04, 2016",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Towards a portable, scalable, open source model of tree cover derived from Landsat spectra",
+    "year": "2016",
+    "citation": "AGU Fall Meeting Abstracts 2016, B34A-08, 2016",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Living in an uncertain world: Understanding and quantifying errors in remotely-sensed estimates of aboveground biomass from remote sensing",
+    "year": "2016",
+    "citation": "101st ESA Annual Meeting (August 7--12, 2016), 2016",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Hyperspectral remote sensing and long term monitoring reveal watershed-estuary ecosystem interactions",
+    "year": "2016",
+    "citation": "American Geophysical Union, Ocean Sciences Meeting 2016, EC23B-08, 2016",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Measuring landscape-scale spread and persistence of an invaded submerged plant community from airborne remote sensing",
+    "year": "2016",
+    "citation": "Wiley-Blackwell, 2016",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Assessment of suspended sediment mixing at the confluence of the Mississippi and Missouri rivers using broad-band satellite remote sensing",
+    "year": "2016",
+    "citation": "International Conference on Fluvial Hydraulics, RIVER FLOW 2016, 1648-1654, 2016",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Package \u2018raster\u2019",
+    "year": "2015",
+    "citation": "R package 734, 473, 2015",
+    "num_citations": 1002,
+    "url": ""
+  },
+  {
+    "title": "gdalUtils: wrappers for the geospatial data abstraction library (GDAL) utilities",
+    "year": "2015",
+    "citation": "R package version 2 (1.7), 2015",
+    "num_citations": 79,
+    "url": ""
+  },
+  {
+    "title": "Geographic Data Analysis and Modeling: Package \u201cRaster\u201d",
+    "year": "2015",
+    "citation": "R CRAN Proj 2 (3-40), 1-134, 2015",
+    "num_citations": 26,
+    "url": ""
+  },
+  {
+    "title": "Quantifying environmental limiting factors on tree cover using geospatial data",
+    "year": "2015",
+    "citation": "PLoS One 10 (2), e0114648, 2015",
+    "num_citations": 21,
+    "url": ""
+  },
+  {
+    "title": "On the feasibility of characterizing soil properties from aviris data",
+    "year": "2015",
+    "citation": "IEEE Transactions on Geoscience and Remote Sensing 53 (9), 5133-5147, 2015",
+    "num_citations": 17,
+    "url": ""
+  },
+  {
+    "title": "Detection of foreclosure-related landscape management changes using Landsat",
+    "year": "2015",
+    "citation": "Applied Geography 62, 217-224, 2015",
+    "num_citations": 11,
+    "url": ""
+  },
+  {
+    "title": "Quantification of uncertainty in aboveground biomass estimates derived from small-footprint LiDAR data",
+    "year": "2015",
+    "citation": "2015 AGU Fall Meeting, 2015",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Developing a generalized allometric equation for aboveground biomass estimation",
+    "year": "2015",
+    "citation": "2015 AGU Fall Meeting, 2015",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Effect of Spatial Resolution for Characterizing Soil Properties from Imaging Spectrometer Data",
+    "year": "2015",
+    "citation": "AGU Fall Meeting Abstracts 2015, GC23K-1232, 2015",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Characterization of Forest Disturbance in California using Landsat Spectral Trajectories",
+    "year": "2015",
+    "citation": "AGU Fall Meeting Abstracts 2015, B23B-0606, 2015",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Quantification of uncertainty in aboveground biomass estimates derived from small-footprint LiDAR data",
+    "year": "2015",
+    "citation": "AGU Fall Meeting Abstracts 2015, GC11B-1036, 2015",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Impact of Climate and Fires on Abrupt Permafrost Thaw in Alaskan Tundra",
+    "year": "2015",
+    "citation": "AGU Fall Meeting Abstracts 2015, B34B-05, 2015",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "The Post-Glacial Species Velocity of Picea glauca following the Last Glacial Maximum in Alaska.",
+    "year": "2015",
+    "citation": "AGU Fall Meeting Abstracts 2015, GC31C-1202, 2015",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Developing a generalized allometric equation for aboveground biomass estimation",
+    "year": "2015",
+    "citation": "AGU Fall Meeting Abstracts 2015, GC11B-1043, 2015",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "The global climate limits on tree cover",
+    "year": "2015",
+    "citation": "100th ESA Annual Meeting, 2015",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Corrected LiDAR digital elevation model, 10 meter resolution",
+    "year": "2015",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Case 2: Ten Mile Pond simulation for vegetated regions",
+    "year": "2015",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "BPNM maximum velocity simulation",
+    "year": "2015",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Soil survey data of the region",
+    "year": "2015",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Original LiDAR differential digital elevation model",
+    "year": "2015",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "AVIRIS data of the region",
+    "year": "2015",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Data from: Mississippi River Flood 2011 project",
+    "year": "2015",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Case 1: Ten Mile Pond simulation with no vegetation considered",
+    "year": "2015",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Remote sensing of vegetable structure, function, and condition.",
+    "year": "2015",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Remote sensing the vulnerability of vegetation in natural terrestrial ecosystems",
+    "year": "2014",
+    "citation": "Remote sensing of environment 154, 322-337, 2014",
+    "num_citations": 169,
+    "url": ""
+  },
+  {
+    "title": "The theoretical limit to plant productivity",
+    "year": "2014",
+    "citation": "Environmental Science & Technology 48 (16), 9471-9477, 2014",
+    "num_citations": 65,
+    "url": ""
+  },
+  {
+    "title": "Assessment of floodplain vulnerability during extreme Mississippi River flood 2011",
+    "year": "2014",
+    "citation": "Environmental science & technology 48 (5), 2619-2625, 2014",
+    "num_citations": 26,
+    "url": ""
+  },
+  {
+    "title": "spatial. tools: R functions for working with spatial data",
+    "year": "2014",
+    "citation": "R package version 1 (8), 2014",
+    "num_citations": 19,
+    "url": ""
+  },
+  {
+    "title": "Geographic data analysis and modeling. R package version 2.3-12",
+    "year": "2014",
+    "citation": "",
+    "num_citations": 12,
+    "url": ""
+  },
+  {
+    "title": "Developing the capacity to monitor climate change impacts in Mediterranean estuaries",
+    "year": "2014",
+    "citation": "Evolutionary Ecology Research 16 (6), 529-550, 2014",
+    "num_citations": 12,
+    "url": ""
+  },
+  {
+    "title": "Remote sensing of vegetation structure, function, and condition",
+    "year": "2014",
+    "citation": "Remote Sensing of Environment 154, 319-321, 2014",
+    "num_citations": 9,
+    "url": ""
+  },
+  {
+    "title": "Suspended Solids Mixing in Large River Confluences: A Remote Sensing Perspective",
+    "year": "2014",
+    "citation": "AGU Fall Meeting Abstracts 2014, H52C-03, 2014",
+    "num_citations": 1,
+    "url": ""
+  },
+  {
+    "title": "On the use of remotely sensed data to constrain process modeling and ecological forecasting",
+    "year": "2014",
+    "citation": "AGU Fall Meeting Abstracts 2014, B53I-01, 2014",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Remotely-Sensed Detection of Foreclosure Effects on Residential Landscapes",
+    "year": "2014",
+    "citation": "AGU Fall Meeting Abstracts 2014, PA13B-3913, 2014",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "A Contextual Classification Approach for Remote Sensing Image Classification of Hyperspatial Imagery",
+    "year": "2014",
+    "citation": "AGU Fall Meeting Abstracts 2014, B31F-0090, 2014",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Fire seasonality changes in C\u00f4te d'Ivoire revealed through Landsat imagery",
+    "year": "2014",
+    "citation": "AGU Fall Meeting Abstracts 2014, GC33D-0557, 2014",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "The climate velocity of the contiguous U nited S tates during the 20th century",
+    "year": "2013",
+    "citation": "Global change biology 19 (1), 241-251, 2013",
+    "num_citations": 374,
+    "url": ""
+  },
+  {
+    "title": "raster: Geographic data analysis and modeling.\u2013R package ver. 2.1-66",
+    "year": "2013",
+    "citation": "",
+    "num_citations": 6,
+    "url": ""
+  },
+  {
+    "title": "Mapping of Soil Properties Using Hyperspectral Remote Sensing",
+    "year": "2013",
+    "citation": "AGU Fall Meeting Abstracts 2013, H33H-1490, 2013",
+    "num_citations": 1,
+    "url": ""
+  },
+  {
+    "title": "Food and fuel from plant biomass-will there be enough to go around?",
+    "year": "2013",
+    "citation": "AGU Fall Meeting Abstracts 2013, B51F-0366, 2013",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Remote Sensing Technologies for Estuary Research and Management",
+    "year": "2013",
+    "citation": "AGU Fall Meeting Abstracts 2013, H13G-1433, 2013",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "rasterEngine: an easy-to-use R function for applying complex geostatistical models to raster datasets in a parallel computing environment",
+    "year": "2013",
+    "citation": "AGU Fall Meeting Abstracts 2013, B13D-0525, 2013",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Spatial variability in wildfire probability across the western United States",
+    "year": "2012",
+    "citation": "International Journal of Wildland Fire 21 (4), 313-327, 2012",
+    "num_citations": 217,
+    "url": ""
+  },
+  {
+    "title": "raster: Geographic data analysis and modeling. R package version 2.0-41",
+    "year": "2012",
+    "citation": "Website https://CRAN. R\u2010project. org/package= raster [accessed 13 October 2020], 2012",
+    "num_citations": 56,
+    "url": ""
+  },
+  {
+    "title": "Classification trees for aquatic vegetation community prediction from imaging spectroscopy",
+    "year": "2012",
+    "citation": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote \u2026, 2012",
+    "num_citations": 44,
+    "url": ""
+  },
+  {
+    "title": "Using LiDAR Data Analysis to Estimate Changes in Insolation Under Large\u2010Scale Riparian Deforestation1",
+    "year": "2012",
+    "citation": "JAWRA Journal of the American Water Resources Association 48 (5), 939-948, 2012",
+    "num_citations": 37,
+    "url": ""
+  },
+  {
+    "title": "Raster: geographic analysis and modeling with raster data. R package version 2",
+    "year": "2012",
+    "citation": "",
+    "num_citations": 36,
+    "url": ""
+  },
+  {
+    "title": "Assessing levee stability with geometric parameters derived from airborne LiDAR",
+    "year": "2012",
+    "citation": "Remote sensing of environment 117, 281-288, 2012",
+    "num_citations": 35,
+    "url": ""
+  },
+  {
+    "title": "Impact Assessment of Large Scale Floods Using Imaging Spectroscopy",
+    "year": "2012",
+    "citation": "AGU Fall Meeting Abstracts 2012, H14E-01, 2012",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Landscape Vulnerability Analysis from Historic Lower Mississippi River Flood in 2011",
+    "year": "2012",
+    "citation": "AGU Fall Meeting Abstracts 2012, B31A-0401, 2012",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Bioclimatic limitations on global forests as measured by a fused remote sensing-climate approach",
+    "year": "2012",
+    "citation": "2012 IEEE International Geoscience and Remote Sensing Symposium, 1155-1157, 2012",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Changes in climatic water balance drive downhill shifts in plant species\u2019 optimum elevations",
+    "year": "2011",
+    "citation": "Science 331 (6015), 324-327, 2011",
+    "num_citations": 732,
+    "url": ""
+  },
+  {
+    "title": "Modeling plant ranges over 75 years of climate change in California, USA: temporal transferability and species traits",
+    "year": "2011",
+    "citation": "Ecological Monographs 81 (2), 241-257, 2011",
+    "num_citations": 223,
+    "url": ""
+  },
+  {
+    "title": "Least cost distance analysis for spatial interpolation",
+    "year": "2011",
+    "citation": "Computers & Geosciences 37 (2), 272-276, 2011",
+    "num_citations": 58,
+    "url": ""
+  },
+  {
+    "title": "Choices, Choices: Spatial, Spectral, Algorithmic and Training Data Requirements For Accurate Forest Remote Sensing",
+    "year": "2011",
+    "citation": "AGU Fall Meeting Abstracts 2011, B51N-0620, 2011",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Using hyperspectral remote sensing to detect and quantify southeastern pine senescence effects in red-cockaded woodpecker (Picoides borealis) habitat",
+    "year": "2010",
+    "citation": "Remote Sensing of Environment 114 (6), 1242-1250, 2010",
+    "num_citations": 43,
+    "url": ""
+  },
+  {
+    "title": "Diverse approaches to detection and mapping of aquatic invasive species using hyperspectral remote sensing imagery",
+    "year": "2010",
+    "citation": "Remote Sensing Hydrology Symposium, 2010",
+    "num_citations": 1,
+    "url": ""
+  },
+  {
+    "title": "Bioclimatic limitations on global tree distributions",
+    "year": "2010",
+    "citation": "AGU Fall Meeting Abstracts 2010, B31B-0289, 2010",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Hyperspectral remote sensing applications to the management of invasive plant species",
+    "year": "2010",
+    "citation": "Remote Sensing Hydrology Symposium, 2010",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "How much influence does landscape-scale physiography have on air temperature in a mountain environment?",
+    "year": "2009",
+    "citation": "Agricultural and Forest Meteorology 149 (10), 1751-1758, 2009",
+    "num_citations": 230,
+    "url": ""
+  },
+  {
+    "title": "Use of hyperspectral remote sensing to evaluate efficacy of aquatic plant management",
+    "year": "2009",
+    "citation": "Invasive Plant Science and Management 2 (3), 216-229, 2009",
+    "num_citations": 62,
+    "url": ""
+  },
+  {
+    "title": "Limitations on maximum tree density using hyperspatial remote sensing and environmental gradient analysis",
+    "year": "2009",
+    "citation": "Remote Sensing of Environment 113 (1), 94-101, 2009",
+    "num_citations": 41,
+    "url": ""
+  },
+  {
+    "title": "Remote sensing of the environmental boundaries of trees in Lake Tahoe, NV",
+    "year": "2009",
+    "citation": "AGU Fall Meeting Abstracts 2009, B31B-0345, 2009",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "The Impact of Spatial Resolution on Classification Accuracy of Hyperspatial Imagery",
+    "year": "2009",
+    "citation": "AGU Fall Meeting Abstracts 2009, B31A-0326, 2009",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Using remote-sensing products to identify velocity thresholds on submerged aquatic vegetation cover in the Sacramento-San Joaquin Delta",
+    "year": "2009",
+    "citation": "AGU Fall Meeting Abstracts 2009, H51D-0789, 2009",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Spatio-temporal dynamics of a submerged landscape: submerged aquatic vegetation in the California Delta ecosystem",
+    "year": "2009",
+    "citation": "22nd Annual Symposium of the United States Regional Association of the \u2026, 2009",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Identification of invasive vegetation using hyperspectral remote sensing in the California Delta ecosystem",
+    "year": "2008",
+    "citation": "Remote Sensing of Environment 112 (11), 4034-4047, 2008",
+    "num_citations": 487,
+    "url": ""
+  },
+  {
+    "title": "Distribution of Y chromosomes among native North Americans: a study of Athapaskan population history",
+    "year": "2008",
+    "citation": "American Journal of Physical Anthropology: The Official Publication of the \u2026, 2008",
+    "num_citations": 93,
+    "url": ""
+  },
+  {
+    "title": "Introduction to special section on Remote Characterization of Vegetation Structure: New Methods and Applications to Landscape\u2010Regional\u2010Global Scale Processes",
+    "year": "2008",
+    "citation": "Journal of Geophysical Research: Biogeosciences 113 (G3), 2008",
+    "num_citations": 11,
+    "url": ""
+  },
+  {
+    "title": "The impacts of riparian tree removal on water temperatures in the Sacramento-San Joaquin River Delta using Lidar data analysis",
+    "year": "2008",
+    "citation": "AGU Fall Meeting Abstracts 1, 0348, 2008",
+    "num_citations": 1,
+    "url": ""
+  },
+  {
+    "title": "Object based tree crown detection and size prediction with LIDAR imagery",
+    "year": "2008",
+    "citation": "AGU Fall Meeting Abstracts 2008, B41C-0396, 2008",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "An Approach to Spatial Classification of Hyperspatial Imagery",
+    "year": "2008",
+    "citation": "AGU Fall Meeting Abstracts 2008, B41C-0397, 2008",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Mapping Wetlands Cover Types with Directional Polarization Signatures",
+    "year": "2008",
+    "citation": "IGARSS 2008-2008 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2008",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Patterns of change in water hyacinth distribution in the Sacramento-San Joaquin Delta",
+    "year": "2008",
+    "citation": "California Invasive Plant Council Symposium., 2008",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Weeding out the invaders: lessons learned from 5 years of hyperspectral weed detection in a highly altered estuary",
+    "year": "2008",
+    "citation": "NASA Carbon Cycle and Ecosystems Joint Science Workshop, 2008",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Mapping invasive aquatic plant species in the Sacramento-San Joaquin River Delta using hyperspectral imagery",
+    "year": "2008",
+    "citation": "California Invasive Plant Council Symposium., 2008",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Water Hyacinth Identification Using CART Modeling With Hyperspectral Data in the Sacramento-San Joaquin River Delta of California",
+    "year": "2007",
+    "citation": "AGU Fall Meeting Abstracts 2007, B43C-1453, 2007",
+    "num_citations": 2,
+    "url": ""
+  },
+  {
+    "title": "Retrieval of Water Quality Parameters in a Highly Turbid Estuary from Hyperspectral Remote Sensing Imagery",
+    "year": "2007",
+    "citation": "AGU Fall Meeting Abstracts 2007, H31F-0733, 2007",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Species Identification From Spatial Analysis of Digital Imagery",
+    "year": "2007",
+    "citation": "AGU Fall Meeting Abstracts 2007, B43C-1448, 2007",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "A Comparison Of Tree Crown Recognition Techniques",
+    "year": "2007",
+    "citation": "AGU Fall Meeting Abstracts 2007, B43C-1445, 2007",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "PS 30-148: Monitoring invasive weeds in the Sacramento-San Joaquin River Delta: Methods, effectiveness, and potential for restoration",
+    "year": "2007",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Bringing hyperspectral methods to applied science: active management of invasive species in the California Delta",
+    "year": "2007",
+    "citation": "AVIRIS Earth Science and Applications workshop, 2007",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Trends in submerged aquatic vegetation and turbidity in the Sacramento-San Joaquin Delta",
+    "year": "2007",
+    "citation": "CalFED State of The Estuary Conference, 2007",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Monitoring invasive weeds in the Sacramento-San Joaquin River Delta: methods, effectiveness and potential for restoration",
+    "year": "2007",
+    "citation": "Ecological Society of America, 2007",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Methods and approaches to ecosystem-scale aquatic weed detection in the California Delta using hyperspectral data",
+    "year": "2007",
+    "citation": "AVIRIS Earth Science and Applications workshop, 2007",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Mapping invasive aquatic vegetation in the Sacramento-San Joaquin Delta using hyperspectral imagery",
+    "year": "2006",
+    "citation": "Environmental Monitoring and Assessment 121 (1), 47-64, 2006",
+    "num_citations": 146,
+    "url": ""
+  },
+  {
+    "title": "Improving image derived vegetation maps with regression based distribution modeling",
+    "year": "2006",
+    "citation": "Ecological modelling 192 (1), 126-142, 2006",
+    "num_citations": 37,
+    "url": ""
+  },
+  {
+    "title": "A bottom-up approach to vegetation mapping of the Lake Tahoe Basin using hyperspatial image analysis",
+    "year": "2006",
+    "citation": "Photogrammetric engineering and remote sensing 72 (5), 581, 2006",
+    "num_citations": 36,
+    "url": ""
+  },
+  {
+    "title": "A simple model to calculate leaf area index from lidar data",
+    "year": "2006",
+    "citation": "AGU Fall Meeting Abstracts 2006, B41A-0160, 2006",
+    "num_citations": 1,
+    "url": ""
+  },
+  {
+    "title": "Landscape-scale characterization of individual plants using hyperspatial remote sensing: techniques, technologies and applications",
+    "year": "2006",
+    "citation": "AGU Fall Meeting Abstracts 2006, B43D-01, 2006",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Determining Biophysical Controls on Forest Structure using Hyperspatial Satellite Imagery and Ecological Gradient Modeling",
+    "year": "2006",
+    "citation": "AGU Fall Meeting Abstracts 2006, B44B-05, 2006",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Comparison of 1mm and 2m Spatial Remote Sensing Results",
+    "year": "2006",
+    "citation": "AGU Fall Meeting Abstracts 2006, B43D-02, 2006",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Remote Sensing of Tropospheric Ozone Impacts on Bio-Indicator Species Using Imaging Spectroscopy",
+    "year": "2006",
+    "citation": "2006 IEEE International Symposium on Geoscience and Remote Sensing, 391-394, 2006",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Polarization of Light from Leaves Measured from 0.5-1.6 mm",
+    "year": "2006",
+    "citation": "Ebernburg Leaf Optics, 2006",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Shadow allometry: Estimating tree structural parameters using hyperspatial image analysis",
+    "year": "2005",
+    "citation": "Remote Sensing of Environment 97 (1), 15-25, 2005",
+    "num_citations": 117,
+    "url": ""
+  },
+  {
+    "title": "Survival analysis of a neotropical rainforest using multitemporal satellite imagery",
+    "year": "2005",
+    "citation": "Remote Sensing of Environment 96 (2), 202-211, 2005",
+    "num_citations": 70,
+    "url": ""
+  },
+  {
+    "title": "StarSpan: A tool for fast selective pixel extraction from remotely sensed data",
+    "year": "2005",
+    "citation": "Center for Spatial Technologies and Remote Sensing (CSTARS), University of \u2026, 2005",
+    "num_citations": 28,
+    "url": ""
+  },
+  {
+    "title": "Tahoe Basin existing vegetation map v. 4.1",
+    "year": "2005",
+    "citation": "Ecological Modelling 192 (1-2), 126-142, 2005",
+    "num_citations": 10,
+    "url": ""
+  },
+  {
+    "title": "Evidence of water limited affects in tree density in a subalpine/alpine environment as inferred from hyperspatial image data and climate gradient analysis",
+    "year": "2005",
+    "citation": "AGU Fall Meeting Abstracts 1, 1245, 2005",
+    "num_citations": 1,
+    "url": ""
+  },
+  {
+    "title": "Spectral and structural measures of northwest forest vegetation at leaf to landscape scales",
+    "year": "2004",
+    "citation": "Ecosystems, 545-562, 2004",
+    "num_citations": 359,
+    "url": ""
+  },
+  {
+    "title": "Remotely sensed estimates of crop water demand",
+    "year": "2004",
+    "citation": "Remote Sensing and Modeling of Ecosystems for Sustainability 5544, 230-240, 2004",
+    "num_citations": 21,
+    "url": ""
+  },
+  {
+    "title": "Monitoring tropical and montane forest dynamics and structure using remote sensing",
+    "year": "2004",
+    "citation": "UNIVERSITY OF CALIFORNIA, 2004",
+    "num_citations": 1,
+    "url": ""
+  },
+  {
+    "title": "Road to extinction: GIS modeling of road development and hunting pressure on Amazonian primates.",
+    "year": "2003",
+    "citation": "American Journal of Physical Anthropology, 89-89, 2003",
+    "num_citations": 15,
+    "url": ""
+  },
+  {
+    "title": "The structure of diversity within New World mitochondrial DNA haplogroups: implications for the prehistory of North America",
+    "year": "2002",
+    "citation": "American journal of human genetics 70 (4), 905, 2002",
+    "num_citations": 170,
+    "url": ""
+  },
+  {
+    "title": "Developing Precision Farming Maps using Crop and Soil Models",
+    "year": "2002",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Do gorilla females join males to avoid infanticide? A quantitative model",
+    "year": "2001",
+    "citation": "Animal behaviour 62 (5), 905-915, 2001",
+    "num_citations": 93,
+    "url": ""
+  },
+  {
+    "title": "Mapping modern mtDNA haplogroup frequencies of Native North Americans ancient Native American homelands utilizing GIS.",
+    "year": "2001",
+    "citation": "AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY, 73-73, 2001",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Mechanism of Succession and Conservation Consequences in Tropical Rainforest",
+    "year": "1999",
+    "citation": "Succession and Conservation, 1-6, 1999",
+    "num_citations": 2,
+    "url": ""
+  },
+  {
+    "title": "MFOUs and Night Monkeys: Paternal care in Aotus sp.",
+    "year": "1999",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Nocturnality in the Owl Monkey, Aoutus sp",
+    "year": "1997",
+    "citation": "",
+    "num_citations": 3,
+    "url": ""
+  },
+  {
+    "title": "Nocturnality in the Owl Monkey, Aotus sp.",
+    "year": "1997",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "High plasma cholesterol, but low triglycerides and plaque-free arteries, in Mexican free-tailed bats",
+    "year": "1996",
+    "citation": "American Journal of Physiology-Regulatory, Integrative and Comparative \u2026, 1996",
+    "num_citations": 29,
+    "url": ""
+  },
+  {
+    "title": "CMS: Vegetative Lifeform Cover from Landsat SR for CONUS, 1984-2018. ORNL DAAC, Oak Ridge, Tennessee, USA",
+    "year": "1809",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "raster: Geographic Data Analysis and Modeling (2018); R package version 2.8\u20134",
+    "year": "",
+    "citation": "",
+    "num_citations": 33,
+    "url": ""
+  },
+  {
+    "title": "& Hijmans, MRJ (2015)",
+    "year": "",
+    "citation": "Package \u2018raster\u2019. R package 734 (7), 0",
+    "num_citations": 31,
+    "url": ""
+  },
+  {
+    "title": "for MA,\u2026 Wueest, R.(2025). raster: Geographic Data Analysis and Modeling (Version 3.6-32)[Computer software]",
+    "year": "",
+    "citation": "",
+    "num_citations": 21,
+    "url": ""
+  },
+  {
+    "title": "Camilo Hurtado-Parrado1, 2*, Myriam Sierra-Puentes2, Mohammed El Hazzouri3, Alexandra Morales2, Diana Guti\u00e9rrez-Villamar\u00edn2, Laura Vel\u00e1squez4, Andrea Correa-Chica5, Juan Carlos \u2026",
+    "year": "",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Effects of wildfire on belowground carbon and nitrogen dynamics in the Sierra Nevada",
+    "year": "",
+    "citation": "2020 ESA Annual Meeting (August 3-6), 0",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "High plasma cholesterol, but low triglycerides and plaque-free arteries, in Mexican free-tailed bats",
+    "year": "",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Mapping Invasive Aquatic Vegetation",
+    "year": "",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Ecological and Economic Influences on Small-scale Tropical Rainforest Succession: A Remote Sensing Approach",
+    "year": "",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  },
+  {
+    "title": "Mapping Invasive Plant Species in the Sacramento-San Joaquin Delta Region Using Hyperspectral Imagery",
+    "year": "",
+    "citation": "",
+    "num_citations": 0,
+    "url": ""
+  }
+]
